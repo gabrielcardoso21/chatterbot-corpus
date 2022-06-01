@@ -269,11 +269,11 @@ conversations:
 - - Fixe.
   - Dr. House, o motivo pelo qual não o demito
   - é que sua reputação ainda vale muito para este hospital.
-  - Excelente, concordamos com algo: Você não vai me demitir.
+  - "Excelente, concordamos com algo: Você não vai me demitir."
   - Sua reputação não vai durar se não fizer o seu trabalho.
   - Essa clínica é parte do seu trabalho.
   - Eu quero que faça o seu trabalho.
-  - Bem, como o filósofo Mick Jagger disse:
+  - "Bem, como o filósofo Mick Jagger disse:"
   - "Você nem sempre consegue o que quer".
   - Você não é meu médico.  Você é o Dr. House?
   - Deus não! Sou o Dr. Chase.
@@ -304,7 +304,7 @@ conversations:
   - Ou que você vai me magoar? Isso assusta-me,
   - mas tenho certeza que posso correr de você.
   - Oh, olhei o filósofo que vc citou, Jagger,
-  - e vc esta certo: "Você nem sempre consegue o que quer"
+  - "e vc esta certo:" "Você nem sempre consegue o que quer"
   - mas acontece que "se você tentar as vezer
   - você consegue o que precisa"
   - Então, pq vc quer que eu trate pacientes,
@@ -475,7 +475,7 @@ conversations:
   - Um papagaio é um pássaro.
 - - Papagaios transmitem a 'febre do papagaio'.
 - - Não é o papagaio..
-  - 'Febre do papagaio pode causar
+  - Febre do papagaio pode causar
   - problemas nervosos e complicações neurológicas.
 - - Quantas crianças tinha na sala?
 - - Vinte.
@@ -572,7 +572,7 @@ conversations:
 - - Ele se importa com você?
 - - Acho que sim.
 - - Você não sabe?
-  - Tudo que o Dr. House diz é: "Toda gente mente".
+  - "Tudo que o Dr. House diz é:" "Toda gente mente".
   - Não é o que as pessoas dizem, é o que elas fazem.
   - Sim, ele se importa comigo.
   - Não consigo ver.
@@ -677,7 +677,7 @@ conversations:
   - Nada que explique esses sintomas.
   - Histórico familiar de problemas neurológicos?
   - Nada que eu pudesse descobrir na sua gaveta de calcinhas.
-  - Você disse: "nada que explique os sintomas".
+  - "Você disse:" "nada que explique os sintomas".
   - O que você achou que não explica os sintomas.
   - Dr. Wilson convenceu você a tratar o paciente com uma mentira.
   - Adler não é prima dele.
